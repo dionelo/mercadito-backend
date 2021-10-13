@@ -17,8 +17,7 @@ const data = {
 	],
 	products: [
 		{
-			_id: '1',
-			name: 'L 42 Sunglasses',
+			name: 'L 90 Sunglasses',
 			category: 'Accessory',
 			image: '/images/sunglasses.jpg',
 			price: 120,
@@ -29,7 +28,6 @@ const data = {
 			description: 'high quality product',
 		},
 		{
-			_id: '2',
 			name: 'Bussiness Shoes',
 			category: 'Clothes',
 			image: '/images/shoes.jpg',
@@ -41,8 +39,7 @@ const data = {
 			description: 'high quality product',
 		},
 		{
-			_id: '3',
-			name: 'L 42 Sunglasses',
+			name: 'L 41 Sunglasses',
 			category: 'Accessory',
 			image: '/images/sunglasses.jpg',
 			price: 160,
@@ -53,20 +50,18 @@ const data = {
 			description: 'high quality product',
 		},
 		{
-			_id: '4',
 			name: 'L 42 Sunglasses',
 			category: 'Accessory',
 			image: '/images/sunglasses.jpg',
 			price: 120,
 			countInStock: 21,
-			brand: 'L 42',
+			brand: 'FH 42',
 			rating: 1,
 			numReviews: 7,
 			description: 'high quality product',
 		},
 		{
-			_id: '5',
-			name: 'L 42 Sunglasses',
+			name: 'L 72 Sunglasses',
 			category: 'Accessory',
 			image: '/images/sunglasses.jpg',
 			price: 20,
@@ -77,8 +72,7 @@ const data = {
 			description: 'high quality product',
 		},
 		{
-			_id: '6',
-			name: 'L 42 Sunglasses',
+			name: 'L 3 Sunglasses',
 			category: 'Accessory',
 			image: '/images/hat.jpg',
 			price: 220,
